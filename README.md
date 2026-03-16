@@ -15,7 +15,7 @@ Currently, the capacity sits at 40TB
 ![Users](https://img.shields.io/badge/Users-10+-brightgreen?style=flat)
 ## Screenshots
 
-![Server Structure]((https://photos.stinko.zone/api/assets/3fd0dbc4-9e10-440d-a87c-883ea82d2898/thumbnail?slug=server&size=preview&c=%2FfcBA4Bml7efiKl6UI5qrvU%3D&edited=true))
+![Server Structure](https://photos.stinko.zone/api/assets/3fd0dbc4-9e10-440d-a87c-883ea82d2898/thumbnail?slug=server&size=preview&c=%2FfcBA4Bml7efiKl6UI5qrvU%3D&edited=true))
 ![Home Board Screenshot](https://photos.stinko.zone/api/assets/1aa541a5-cf4f-41a8-b6bd-cf6e41488cc9/thumbnail?slug=Homarr&size=preview&c=DAgCA4AJmIiUiVmHrIOff8c%3D&edited=true)
 
 
